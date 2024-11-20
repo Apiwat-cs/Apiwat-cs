@@ -4,7 +4,8 @@ Hi 👋 My name is APIWAT NAEMSAI
 Developer
 ---------
 
-I've been learning to code for 3 years, I started with C, but have really found a passion for backend development
+
+I have been learning to code for five years, starting with C. As a third-year computer science student with foundational programming skills, I am now developing expertise to pursue a career as a Full-Stack Developer.
 
 ### Skills
 
