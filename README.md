@@ -1,7 +1,7 @@
 Hi 👋 My name is APIWAT NAEMSAI
 ===============================
 
-Developer
+Software Developer
 ---------
 
 
