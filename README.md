@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=apiwatns&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 I'm a 3rd year Computer Science student  
@@ -46,17 +40,16 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100009052881432" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" /></a>
+  <a href="https://www.facebook.com/apiwat.naemsai" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" /></a>
   <a href="http://www.instagram.com/apiwat.ns/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" /></a>
-  <a href="mailto:apiwat.naemsai@example.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" /></a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" /></a>
+  <a href="http:/www.linkedin.com/in/apiwat-naemsai-65aa5833a" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" /></a>
 </p>
 
 ---
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
@@ -73,6 +66,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/VYfjO7c.png" alt="Cute Avatar" width="120" />
-</p>
