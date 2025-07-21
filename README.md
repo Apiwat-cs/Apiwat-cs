@@ -30,11 +30,9 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Apiwat-cs&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-cs&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-cs&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" width="30%" />
 </p>
 
 <p align="center">
