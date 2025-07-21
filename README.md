@@ -32,11 +32,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Apiwat-cs&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-cs&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-cs&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" width="32%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apiwat-cs&theme=tokyonight&border_radius=10" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apiwat-cs&theme=tokyonight&border_radius=10" width="50%" />
 </p>
 
 ---
