@@ -49,10 +49,16 @@
 
 ## 🌐 Connect with Me
 
-<p align="center" gap=10>
-  <a href="https://www.facebook.com/apiwat.naemsai" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" /></a>
-  <a href="http://www.instagram.com/apiwat.ns/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" /></a>
-  <a href="http://www.linkedin.com/in/apiwat-naemsai-65aa5833a" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" /></a>
+<p align="center">
+  <a href="https://www.facebook.com/apiwat.naemsai" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="http://www.instagram.com/apiwat.ns/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="http://www.linkedin.com/in/apiwat-naemsai-65aa5833a" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" />
+  </a>
 </p>
 
 ---
